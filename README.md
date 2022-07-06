@@ -1,1 +1,1 @@
-Link : https://jeksilaen.github.io/CV-Website/
+Link : https://jeksilaen.github.io/CV/
